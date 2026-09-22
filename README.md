@@ -24,7 +24,7 @@ No login is required. The app runs entirely in the browser and keeps demo data i
 
 ## Submission
 
-- Public deployment URL: _add after deployment_
+- Public deployment URL: skillswap-iota-gilt.vercel.app
 - Hackathon ID: AZIS-ZA3D8G
 - Standard API: Not implemented. This project is a browser-only prototype; features are demonstrated through the UI.
 
